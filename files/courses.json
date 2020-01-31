@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Bulltofta",
+    "uuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5"
+  },
+  {
+    "id": "2",
+    "name": "Sibbarp",
+    "uuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad"
+  },
+  {
+    "id": "3",
+    "name": "St Hans",
+    "uuid": "5b465486-0c57-4454-b965-d01757be5f57"
+  },
+  {
+    "id": "4",
+    "name": "Vipeholm",
+    "uuid": "af2c0e0d-de29-49d2-bce1-9a351c9d9214"
+  }
+]
