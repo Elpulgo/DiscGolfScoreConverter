@@ -1,0 +1,263 @@
+[
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1523891769632",
+    "endedAt": "1524399116380",
+    "id": "1",
+    "startedAt": "1523891769631",
+    "updatedAt": "1524399116380",
+    "uuid": "d59ae83e-0f5d-4485-ba82-69729d8e095e"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1525518641270",
+    "endedAt": "1525952529535",
+    "id": "2",
+    "startedAt": "1525518641270",
+    "updatedAt": "1525952529535",
+    "uuid": "b7a7cddb-ab3d-4b54-bd3b-2300eece76c3"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1525952534182",
+    "endedAt": "1525958093096",
+    "id": "3",
+    "startedAt": "1525952534182",
+    "updatedAt": "1525958093096",
+    "uuid": "500187d4-39e5-4e2d-874e-bab080479fb7"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1526400572737",
+    "endedAt": "1526403026717",
+    "id": "4",
+    "startedAt": "1526400572737",
+    "updatedAt": "1526403026717",
+    "uuid": "c065abc9-2440-4a96-a1c9-27829069c6aa"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1526654043711",
+    "endedAt": "1526656073584",
+    "id": "5",
+    "startedAt": "1526654043711",
+    "updatedAt": "1526656073584",
+    "uuid": "620a2302-1003-4990-a628-446c066ef1eb"
+  },
+  {
+    "courseUuid": "5b465486-0c57-4454-b965-d01757be5f57",
+    "createdAt": "1526807050088",
+    "endedAt": "1526818586616",
+    "id": "6",
+    "startedAt": "1526807050088",
+    "updatedAt": "1526818586616",
+    "uuid": "17bc5de7-46e7-4393-9ef9-e01054402cb2"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1527415920535",
+    "endedAt": "1527419782475",
+    "id": "7",
+    "startedAt": "1527415920534",
+    "updatedAt": "1527419782475",
+    "uuid": "0563bd6e-2449-441a-8392-d1a8f1135f14"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1527419855092",
+    "endedAt": "1529422972922",
+    "id": "8",
+    "startedAt": "1527419855092",
+    "updatedAt": "1529422972925",
+    "uuid": "c9d64478-0667-4248-9407-9d006aa01388"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1529422980527",
+    "endedAt": "1529428861569",
+    "id": "9",
+    "startedAt": "1529422980527",
+    "updatedAt": "1529428861570",
+    "uuid": "33a69f82-a6f9-42ae-85a0-d48007f5ec4b"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1529593537093",
+    "endedAt": "1529597613144",
+    "id": "10",
+    "startedAt": "1529593537093",
+    "updatedAt": "1529597613145",
+    "uuid": "d102a849-ad9d-4ca2-b2fd-8c71ac021845"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1530284625786",
+    "endedAt": "1530290227954",
+    "id": "11",
+    "startedAt": "1530284625786",
+    "updatedAt": "1530290227956",
+    "uuid": "f6749f71-f28d-409d-bc77-e62d1192ba2f"
+  },
+  {
+    "courseUuid": "af2c0e0d-de29-49d2-bce1-9a351c9d9214",
+    "createdAt": "1530956719513",
+    "endedAt": "1530966183781",
+    "id": "12",
+    "startedAt": "1530956719513",
+    "updatedAt": "1530966183781",
+    "uuid": "30a7ef08-4e90-48a9-81c0-090e9fe94353"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1531928346080",
+    "endedAt": "1531935278361",
+    "id": "13",
+    "startedAt": "1531928346080",
+    "updatedAt": "1531935278361",
+    "uuid": "e1e77cc5-60ae-429c-b039-cc72c972272e"
+  },
+  {
+    "courseUuid": "af2c0e0d-de29-49d2-bce1-9a351c9d9214",
+    "createdAt": "1533892442582",
+    "endedAt": "1533892455237",
+    "id": "14",
+    "startedAt": "1533892442582",
+    "updatedAt": "1533892455238",
+    "uuid": "c9359ead-35c1-42f8-9b04-4e32bf2870ea"
+  },
+  {
+    "courseUuid": "5b465486-0c57-4454-b965-d01757be5f57",
+    "createdAt": "1533892458306",
+    "endedAt": "1533899803679",
+    "id": "15",
+    "startedAt": "1533892458306",
+    "updatedAt": "1533899803680",
+    "uuid": "fc728275-6482-4750-8248-41253e8046db"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1535797780913",
+    "endedAt": "1535803723811",
+    "id": "16",
+    "startedAt": "1535797780913",
+    "updatedAt": "1535803723811",
+    "uuid": "ca152c3d-c385-41dc-b323-0bd1e1c67127"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1542461203973",
+    "endedAt": "1542464786559",
+    "id": "17",
+    "startedAt": "1542461203972",
+    "updatedAt": "1542464786559",
+    "uuid": "3f071eaa-a4dd-491e-ae3b-d7e05e269595"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1551015827266",
+    "endedAt": "1551017918434",
+    "id": "18",
+    "startedAt": "1551015827266",
+    "updatedAt": "1551017918434",
+    "uuid": "406efc65-0b6f-4c5a-8f7e-c7d1de10b87b"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1553429679124",
+    "endedAt": "1553432770944",
+    "id": "19",
+    "startedAt": "1553429679124",
+    "updatedAt": "1553432770944",
+    "uuid": "314ab24f-2934-44b6-8a88-9f0f5f6efa4f"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1553433238743",
+    "endedAt": "1553435676332",
+    "id": "20",
+    "startedAt": "1553433238743",
+    "updatedAt": "1553435676332",
+    "uuid": "9834fd05-65f8-40b1-86d4-aacbf6788870"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1559212784025",
+    "endedAt": "1560587236656",
+    "id": "21",
+    "startedAt": "1559212784025",
+    "updatedAt": "1560587236656",
+    "uuid": "b985611e-308e-42c6-8c94-0da953195aba"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1560587240390",
+    "endedAt": "1560587246107",
+    "id": "22",
+    "startedAt": "1560587240390",
+    "updatedAt": "1560587246107",
+    "uuid": "40ccea99-d2a9-4def-8d82-871990a29ce2"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1560587251096",
+    "endedAt": "1560596305139",
+    "id": "23",
+    "startedAt": "1560587251095",
+    "updatedAt": "1560596305139",
+    "uuid": "6f41da31-9988-474f-9fae-5b19b95e9939"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1563898703910",
+    "endedAt": "1563909222946",
+    "id": "24",
+    "startedAt": "1563898703910",
+    "updatedAt": "1563909222946",
+    "uuid": "401bc745-4576-4a1e-b7cc-c272f36c4841"
+  },
+  {
+    "courseUuid": "5b465486-0c57-4454-b965-d01757be5f57",
+    "createdAt": "1564759184450",
+    "endedAt": "1564771962140",
+    "id": "26",
+    "startedAt": "1564759184450",
+    "updatedAt": "1564771962140",
+    "uuid": "4a5755ce-2e4b-41bb-80f1-37b7d0b30920"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1565252369889",
+    "endedAt": "1565263474111",
+    "id": "27",
+    "startedAt": "1565252369889",
+    "updatedAt": "1565263474111",
+    "uuid": "e9a50ab5-5c79-4102-a59a-5b93540b9d88"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1565593698757",
+    "endedAt": "1565595037813",
+    "id": "28",
+    "startedAt": "1565593698757",
+    "updatedAt": "1565595037814",
+    "uuid": "522708ad-ff60-4eb6-b7bb-d258aebf90a5"
+  },
+  {
+    "courseUuid": "2f2568e3-4a7c-4a19-a73a-e2d002d34aad",
+    "createdAt": "1565595064067",
+    "endedAt": "1565597160076",
+    "id": "29",
+    "startedAt": "1565595064067",
+    "updatedAt": "1565597160076",
+    "uuid": "16695580-94a2-44e0-b7e3-62892b9326f2"
+  },
+  {
+    "courseUuid": "521030ce-a61f-427c-a9a0-e6a788c9aaf5",
+    "createdAt": "1577266696623",
+    "endedAt": "1577274037504",
+    "id": "30",
+    "startedAt": "1577266696623",
+    "updatedAt": "1577274037504",
+    "uuid": "81954a45-27da-48fc-84cb-4dccf5035e22"
+  }
+]
