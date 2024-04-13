@@ -1,0 +1,75 @@
+[
+    {
+        "created": "1523891718517",
+        "id": "1",
+        "name": "Oscar",
+        "owner": 1,
+        "profileImageFilename": "da484e7f12b84cca8f221e266c9e5758.jpg",
+        "updatedAt": "1527415962153",
+        "uuid": "fb4f6963-9840-4b7b-8a82-6f5d9a558a99"
+    },
+    {
+        "created": "1525518666993",
+        "id": "2",
+        "name": "Sofie",
+        "owner": 0,
+        "profileImageFilename": "b9fd64df253e49fca47e4ce9e975e062.jpg",
+        "updatedAt": "1527415986409",
+        "uuid": "01cc4d20-7c60-470c-8fc4-36b9846861a7"
+    },
+    {
+        "created": "1526807014918",
+        "id": "3",
+        "name": "Jonas",
+        "owner": 0,
+        "uuid": "8b814eba-d13b-4d59-bf5c-b32aeae51ab7"
+    },
+    {
+        "created": "1526807021681",
+        "id": "4",
+        "name": "Stina",
+        "owner": 0,
+        "uuid": "c275e446-7eb9-46da-a0dd-ffc7dcba1a3e"
+    },
+    {
+        "created": "1527415931337",
+        "id": "5",
+        "name": "Marc",
+        "owner": 0,
+        "profileImageFilename": "9038ddfdea724367ab944767c58fb1a9.jpg",
+        "updatedAt": "1565252443882",
+        "uuid": "28a120ee-c3f0-4a71-a49b-0de3b087d572"
+    },
+    {
+        "created": "1542461234711",
+        "id": "6",
+        "name": "Taz",
+        "owner": 0,
+        "profileImageFilename": "37b7160c02de445aab20be7b5cc01b02.jpg",
+        "uuid": "cdd50d34-20c8-4cf7-b277-a76979578431"
+    },
+    {
+        "created": "1565252402242",
+        "id": "7",
+        "name": "Björn",
+        "owner": 0,
+        "profileImageFilename": "dc8648540707441e80e871c133ae5265.jpg",
+        "uuid": "f03874a0-862b-4361-858e-27b38c2d4a7d"
+    },
+    {
+        "created": "1565252421734",
+        "id": "8",
+        "name": "Anna",
+        "owner": 0,
+        "profileImageFilename": "87f4fba0e643478d924a4412b6122b83.jpg",
+        "uuid": "3d6d4d1d-cb0a-422d-8ac8-19658685a266"
+    },
+    {
+        "created": "1577266733894",
+        "id": "9",
+        "name": "Robz",
+        "owner": 0,
+        "profileImageFilename": "d2eb0563f46b444fbaa7cd4223d6df34.jpg",
+        "uuid": "1e012a5b-eff1-43d0-9437-c638b3fc4dad"
+    }
+]
