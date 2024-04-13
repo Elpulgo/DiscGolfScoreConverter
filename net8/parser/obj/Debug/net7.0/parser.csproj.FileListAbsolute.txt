@@ -1,0 +1,17 @@
+/home/oscar/DiscGolfScoreConverter/net8/parser/bin/Debug/net7.0/parser
+/home/oscar/DiscGolfScoreConverter/net8/parser/bin/Debug/net7.0/parser.deps.json
+/home/oscar/DiscGolfScoreConverter/net8/parser/bin/Debug/net7.0/parser.runtimeconfig.json
+/home/oscar/DiscGolfScoreConverter/net8/parser/bin/Debug/net7.0/parser.dll
+/home/oscar/DiscGolfScoreConverter/net8/parser/bin/Debug/net7.0/parser.pdb
+/home/oscar/DiscGolfScoreConverter/net8/parser/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.csproj.AssemblyReference.cache
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.GeneratedMSBuildEditorConfig.editorconfig
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.AssemblyInfoInputs.cache
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.AssemblyInfo.cs
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.csproj.CoreCompileInputs.cache
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.csproj.CopyComplete
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.dll
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/refint/parser.dll
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.pdb
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/parser.genruntimeconfig.cache
+/home/oscar/DiscGolfScoreConverter/net8/parser/obj/Debug/net7.0/ref/parser.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HNzV2VkN0ixrjNsd1WHzun52eKor0hnCXQbIXaSLbH0YrhrfxhxNyzZ+Y6tOnfdn2Pl0gDjg4EH+S9MZigPBvA==",
+  "success": true,
+  "projectFilePath": "/home/oscar/DiscGolfScoreConverter/net8/parser/parser.csproj",
+  "expectedPackageFiles": [
+    "/home/oscar/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
